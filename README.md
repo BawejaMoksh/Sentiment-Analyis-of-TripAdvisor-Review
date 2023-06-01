@@ -1,2 +1,2 @@
 # Sentiment-Analyis-of-TripAdvisor-Review
-based on TextBlob model
+ITC Maurya Delhi Review Analysis based on TextBlob model
